@@ -1,0 +1,3 @@
+accessing
+tileNumber 
+	^ tiles size

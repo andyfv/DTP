@@ -1,0 +1,14 @@
+{
+	"category" : "NetworkSimulator-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "KANetworkHub",
+	"pools" : [
+		 ],
+	"super" : "KANetworkNode",
+	"type" : "normal" }

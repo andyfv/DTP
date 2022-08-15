@@ -1,0 +1,16 @@
+{
+	"category" : "MyConverter
+",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"location",
+		"measures" ],
+	"name" : "TemperatureConverter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

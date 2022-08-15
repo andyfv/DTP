@@ -1,0 +1,14 @@
+{
+	"category" : "SnakesAndLadders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetTile" ],
+	"name" : "SLActiveTile",
+	"pools" : [
+		 ],
+	"super" : "SLAbstractTile",
+	"type" : "normal" }

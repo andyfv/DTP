@@ -1,0 +1,3 @@
+initialize
+setUp
+	self buildNetwork

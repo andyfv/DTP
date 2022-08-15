@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addPlayer:" : "andyf 3/9/2022 00:46",
+		"canMoveToPosition:" : "andyf 3/9/2022 10:58",
+		"currentPlayer" : "andyf 3/9/2022 09:49",
+		"initialize" : "andyf 3/9/2022 00:45",
+		"isOver" : "andyf 3/9/2022 10:49",
+		"movePlayer:distance:" : "andyf 3/9/2022 00:15",
+		"play" : "andyf 3/9/2022 13:05",
+		"playOneStepWithRoll:" : "andyf 3/9/2022 12:51",
+		"printOn:" : "andyf 3/7/2022 22:45",
+		"setLadderFrom:to:" : "andyf 3/8/2022 23:21",
+		"setSnakeFrom:to:" : "andyf 3/8/2022 23:22",
+		"tileAt:" : "andyf 3/8/2022 00:53",
+		"tileFor:atDistance:" : "andyf 3/8/2022 13:34",
+		"tileNumber" : "andyf 3/7/2022 23:25",
+		"tileNumber:" : "andyf 3/7/2022 23:24",
+		"tileOfPlayer:" : "andyf 3/8/2022 13:42",
+		"turn:" : "andyf 3/9/2022 09:38" } }

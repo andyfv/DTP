@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCelsiusToFahrenheit" : "andyf 2/18/2022 22:30",
+		"testFToCScale" : "andyf 2/17/2022 16:48",
+		"testFahrenheitToCelsius" : "andyf 2/17/2022 16:48",
+		"testLocationAndDate" : "andyf 2/17/2022 17:39",
+		"testLocationAndDateWithConversion" : "andyf 2/17/2022 17:58",
+		"testTwoLocations" : "andyf 2/17/2022 17:54" } }

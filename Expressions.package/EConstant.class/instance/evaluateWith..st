@@ -1,0 +1,3 @@
+accessing
+evaluateWith: anObject
+	^ value

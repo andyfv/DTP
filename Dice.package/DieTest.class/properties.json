@@ -1,0 +1,14 @@
+{
+	"category" : "Dice",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DieTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "SnakesAndLadders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tiles",
+		"players",
+		"turn" ],
+	"name" : "SLGame",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

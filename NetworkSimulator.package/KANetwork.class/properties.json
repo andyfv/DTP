@@ -1,0 +1,15 @@
+{
+	"category" : "NetworkSimulator-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nodes",
+		"links" ],
+	"name" : "KANetwork",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

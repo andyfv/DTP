@@ -1,0 +1,14 @@
+{
+	"category" : "Expressions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EMultiplication",
+	"pools" : [
+		 ],
+	"super" : "EBinaryExpression",
+	"type" : "normal" }

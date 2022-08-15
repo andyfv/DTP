@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"from:to:payload:" : "andyf 3/5/2022 01:34" },
+	"instance" : {
+		"destinationAddress" : "andyf 3/5/2022 01:43",
+		"initializeSource:destination:payload:" : "andyf 3/5/2022 01:34",
+		"isAddressedTo:" : "andyf 3/7/2022 01:51",
+		"isOriginatingFrom:" : "andyf 3/7/2022 01:51",
+		"payload" : "andyf 3/5/2022 01:43",
+		"sourceAddress" : "andyf 3/5/2022 01:43" } }

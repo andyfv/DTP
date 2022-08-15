@@ -1,0 +1,14 @@
+{
+	"category" : "Expressions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EAddition",
+	"pools" : [
+		 ],
+	"super" : "EBinaryExpression",
+	"type" : "normal" }

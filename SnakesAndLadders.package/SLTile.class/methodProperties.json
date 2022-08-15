@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptPlayer:" : "andyf 3/9/2022 00:17",
+		"addPlayer:" : "andyf 3/8/2022 00:59",
+		"includesPlayer:" : "andyf 3/8/2022 11:05",
+		"initialize" : "andyf 3/8/2022 00:59",
+		"players" : "andyf 3/8/2022 01:00",
+		"printInsideOn:" : "andyf 3/8/2022 15:28",
+		"printOn:" : "andyf 3/8/2022 11:23",
+		"releasePlayer:" : "andyf 3/8/2022 23:31",
+		"removePlayer:" : "andyf 3/8/2022 14:09" } }

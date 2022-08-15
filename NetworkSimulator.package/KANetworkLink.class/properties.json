@@ -1,0 +1,16 @@
+{
+	"category" : "NetworkSimulator-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source",
+		"destination",
+		"packetsToTransmit" ],
+	"name" : "KANetworkLink",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

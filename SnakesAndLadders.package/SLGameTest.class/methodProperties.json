@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCanMoveToPosition" : "andyf 3/9/2022 10:54",
+		"testCheckingSimpleGame" : "andyf 3/7/2022 21:44",
+		"testCurrentPlayer" : "andyf 3/9/2022 00:36",
+		"testFullGamePrintString" : "andyf 3/8/2022 22:09",
+		"testGameIsOver" : "andyf 3/9/2022 10:53",
+		"testMovePlayerADistance" : "andyf 3/8/2022 14:20",
+		"testPlayOneStep" : "andyf 3/9/2022 12:52",
+		"testPlayOneStepOnALadder" : "andyf 3/9/2022 12:55",
+		"testPlayOneStepOnExactFinish" : "andyf 3/9/2022 13:28",
+		"testPlayOneStepOnInexactFinish" : "andyf 3/9/2022 13:28",
+		"testPlayTwoSteps" : "andyf 3/9/2022 12:53",
+		"testPlayerAtStart" : "andyf 3/8/2022 11:06",
+		"testPlayerAtStartIsAtPosition1" : "andyf 3/8/2022 13:27",
+		"testPlayerStepOnASnake" : "andyf 3/9/2022 00:23",
+		"testPrintingLadder" : "andyf 3/8/2022 15:22",
+		"testPrintingSimpleGame" : "andyf 3/7/2022 21:48",
+		"testPrintingSimpleGameWithPlayers" : "andyf 3/8/2022 11:14",
+		"testPrintingSnake" : "andyf 3/8/2022 15:22",
+		"testSeveralPlayersAtStart" : "andyf 3/8/2022 11:05",
+		"testTileAt" : "andyf 3/8/2022 00:50",
+		"testTileForAtDistance" : "andyf 3/8/2022 13:08",
+		"testTileOfPlayer" : "andyf 3/8/2022 13:38" } }

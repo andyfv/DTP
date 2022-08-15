@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"withAddress:" : "andyf 3/6/2022 00:19" },
+	"instance" : {
+		"address" : "andyf 3/6/2022 00:20",
+		"attach:" : "andyf 3/6/2022 01:52",
+		"consume:" : "andyf 3/6/2022 13:51",
+		"forward:from:" : "andyf 3/7/2022 02:17",
+		"hasLinkTo:" : "andyf 3/6/2022 02:00",
+		"hasReceived:" : "andyf 3/6/2022 15:33",
+		"initialize" : "andyf 3/6/2022 17:03",
+		"initializeAddress:" : "andyf 3/6/2022 00:20",
+		"linksTowards:do:" : "andyf 3/6/2022 17:20",
+		"loopback" : "andyf 3/6/2022 16:29",
+		"receive:from:" : "andyf 3/7/2022 02:15",
+		"send:" : "andyf 3/6/2022 16:31",
+		"send:via:" : "andyf 3/6/2022 13:36" } }

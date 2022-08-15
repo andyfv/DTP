@@ -1,0 +1,15 @@
+{
+	"category" : "SnakesAndLadders",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"position" ],
+	"name" : "SLPlayer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

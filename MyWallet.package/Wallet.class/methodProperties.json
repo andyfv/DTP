@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:coinsOfValue:" : "andyf 2/18/2022 17:44",
+		"addCoin:" : "andyf 2/18/2022 22:58",
+		"biggest" : "andyf 2/18/2022 22:48",
+		"biggest2" : "andyf 2/21/2022 12:54",
+		"biggestAndRemove" : "andyf 2/19/2022 02:05",
+		"biggestBelow:" : "andyf 2/18/2022 22:55",
+		"canPay:" : "andyf 2/18/2022 22:50",
+		"coinNumber" : "andyf 2/18/2022 17:57",
+		"coinsFor:" : "andyf 2/20/2022 23:44",
+		"coinsFor:into2:" : "andyf 2/21/2022 17:16",
+		"coinsFor:into:" : "andyf 2/21/2022 16:53",
+		"coinsOfValue:" : "andyf 2/18/2022 17:56",
+		"initialize" : "andyf 2/18/2022 17:38",
+		"money" : "andyf 2/21/2022 12:42",
+		"printOn:" : "andyf 2/18/2022 22:56",
+		"remove:coinsOfValue:" : "andyf 2/19/2022 02:00",
+		"removeCoin:" : "andyf 2/19/2022 01:43" } }

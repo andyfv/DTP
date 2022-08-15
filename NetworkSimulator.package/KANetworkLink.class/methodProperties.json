@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"from:to:" : "andyf 3/6/2022 00:58" },
+	"instance" : {
+		"attach" : "andyf 3/6/2022 01:00",
+		"destination" : "andyf 3/6/2022 00:59",
+		"emit:" : "andyf 3/6/2022 13:39",
+		"initialize" : "andyf 3/6/2022 13:38",
+		"initializeFrom:to:" : "andyf 3/6/2022 00:59",
+		"isTransmitting:" : "andyf 3/6/2022 15:34",
+		"source" : "andyf 3/6/2022 00:59",
+		"transmit:" : "andyf 3/6/2022 15:50" } }

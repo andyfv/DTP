@@ -1,3 +1,11 @@
 OrderedDictionary {
-	'MyCounter.package' : #SquotCypressCodeSerializer
+	'MyCounter.package' : #SquotCypressCodeSerializer,
+	'LoopStarGram.package' : #SquotCypressCodeSerializer,
+	'MyConverter\r.package' : #SquotCypressCodeSerializer,
+	'MyFS2.package' : #SquotCypressCodeSerializer,
+	'MyWallet.package' : #SquotCypressCodeSerializer,
+	'Dice.package' : #SquotCypressCodeSerializer,
+	'Expressions.package' : #SquotCypressCodeSerializer,
+	'NetworkSimulator.package' : #SquotCypressCodeSerializer,
+	'SnakesAndLadders.package' : #SquotCypressCodeSerializer
 }

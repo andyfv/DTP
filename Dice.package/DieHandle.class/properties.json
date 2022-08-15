@@ -1,0 +1,14 @@
+{
+	"category" : "Dice",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dice" ],
+	"name" : "DieHandle",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

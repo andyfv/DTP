@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"convertCelsius:" : "andyf 2/17/2022 00:23",
+		"convertFahrenheit:" : "andyf 2/17/2022 16:48",
+		"convertFahrenheitFrom:to:by:" : "andyf 2/17/2022 16:48",
+		"dates" : "andyf 2/17/2022 17:49",
+		"initialize" : "andyf 2/17/2022 17:44",
+		"measureCelsius:" : "andyf 2/17/2022 17:45",
+		"measureCount" : "andyf 2/17/2022 17:45",
+		"measureFahrenheit:" : "andyf 2/17/2022 18:00",
+		"temperatures" : "andyf 2/17/2022 17:46",
+		"times" : "andyf 2/17/2022 17:48" } }

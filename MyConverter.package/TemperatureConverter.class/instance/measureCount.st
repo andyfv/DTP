@@ -1,0 +1,3 @@
+accessing
+measureCount 
+	^ measures size.

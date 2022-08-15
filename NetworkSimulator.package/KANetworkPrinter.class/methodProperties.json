@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"withAddress:initialSupply:" : "andyf 3/7/2022 15:47" },
+	"instance" : {
+		"consume:" : "andyf 3/7/2022 14:20",
+		"initialize" : "andyf 3/7/2022 14:51",
+		"printOn:" : "andyf 3/7/2022 15:53",
+		"resupply:" : "andyf 3/7/2022 15:46",
+		"supply" : "andyf 3/7/2022 15:47",
+		"tray" : "andyf 3/7/2022 15:48" } }

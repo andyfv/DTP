@@ -1,0 +1,14 @@
+{
+	"category" : "Expressions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EConstantTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

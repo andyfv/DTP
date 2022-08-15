@@ -1,0 +1,14 @@
+{
+	"category" : "MyWallet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bagCoins" ],
+	"name" : "Wallet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

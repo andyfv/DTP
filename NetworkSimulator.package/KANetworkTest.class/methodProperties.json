@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildNetwork" : "andyf 3/7/2022 02:22",
+		"setUp" : "andyf 3/6/2022 17:22",
+		"testDirectSend" : "andyf 3/7/2022 01:56",
+		"testNetworkFindsLinks" : "andyf 3/7/2022 01:26",
+		"testNetworkFindsNodesByAddress" : "andyf 3/6/2022 17:23",
+		"testNetworkOnlyFindsAddedNodes" : "andyf 3/7/2022 01:13",
+		"testSelfSend" : "andyf 3/7/2022 01:52",
+		"testSendViaHub" : "andyf 3/7/2022 02:23" } }

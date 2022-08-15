@@ -1,0 +1,14 @@
+{
+	"category" : "Dice",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"faces" ],
+	"name" : "Die",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

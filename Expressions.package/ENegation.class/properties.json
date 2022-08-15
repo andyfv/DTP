@@ -1,0 +1,14 @@
+{
+	"category" : "Expressions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"expression" ],
+	"name" : "ENegation",
+	"pools" : [
+		 ],
+	"super" : "EExpression",
+	"type" : "normal" }

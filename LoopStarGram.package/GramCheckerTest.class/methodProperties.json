@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"isograms" : "andyf 2/16/2022 01:10",
+		"notIsograms" : "andyf 2/16/2022 01:15",
+		"testAllIsogramSet" : "andyf 2/16/2022 01:16",
+		"testDetectAllMissingLetters" : "andyf 2/16/2022 13:59",
+		"testDetectFirstMissingLetter" : "andyf 2/22/2022 14:08",
+		"testIsEnglishPangram" : "andyf 2/16/2022 10:55",
+		"testIsPalindrome" : "andyf 2/16/2022 14:00",
+		"testIsPangramIn" : "andyf 2/16/2022 13:01",
+		"testIsogramSetImplementation" : "andyf 2/16/2022 01:08" } }

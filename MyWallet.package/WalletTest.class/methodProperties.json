@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddOneCoin" : "andyf 2/18/2022 22:58",
+		"testBiggestCoins" : "andyf 2/21/2022 12:54",
+		"testBiggestCoinsBelow" : "andyf 2/18/2022 22:49",
+		"testCanPay" : "andyf 2/18/2022 22:42",
+		"testCoins" : "andyf 2/18/2022 00:44",
+		"testCoinsAddition" : "andyf 2/18/2022 17:54",
+		"testCoinsAdditionISWorking" : "andyf 2/18/2022 17:58",
+		"testCoinsForPaying" : "andyf 2/19/2022 02:08",
+		"testCoinsForPayingWithOtherCoins" : "andyf 2/19/2022 12:03",
+		"testMoney" : "andyf 2/18/2022 22:32",
+		"testMoney2" : "andyf 2/18/2022 18:00",
+		"testRemove" : "andyf 2/19/2022 01:48",
+		"testRemoveCoins" : "andyf 2/19/2022 02:02",
+		"testWalletAtCreationIsZero" : "andyf 2/18/2022 00:42" } }

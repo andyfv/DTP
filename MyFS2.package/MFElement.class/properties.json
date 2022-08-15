@@ -1,0 +1,15 @@
+{
+	"category" : "MyFS2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"parent" ],
+	"name" : "MFElement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

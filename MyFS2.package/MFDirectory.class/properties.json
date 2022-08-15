@@ -1,0 +1,14 @@
+{
+	"category" : "MyFS2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"files" ],
+	"name" : "MFDirectory",
+	"pools" : [
+		 ],
+	"super" : "MFElement",
+	"type" : "normal" }

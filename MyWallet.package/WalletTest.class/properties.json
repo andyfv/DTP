@@ -1,0 +1,14 @@
+{
+	"category" : "MyWallet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WalletTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
