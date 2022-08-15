@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testCountIsSetAndRead" : "andyf 2/15/2022 17:42",
+		"testDecrement" : "andyf 2/15/2022 18:55",
+		"testIncrement" : "andyf 2/15/2022 18:53",
+		"testValueAtCreationTimeIsZero" : "andyf 2/15/2022 21:50" } }
