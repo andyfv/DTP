@@ -1,0 +1,3 @@
+initialization
+messageCount
+	^ messagesQueue size
